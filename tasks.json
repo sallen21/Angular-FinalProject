@@ -1,0 +1,21 @@
+{
+"tasks": [
+{
+    "id": 0,
+    "name": "Cooking",
+    "description": "The process of preparing food and using a stove, oven, air fryer, etc. to cook the dish of your desire.",
+    "image_url": ""
+  },
+  {
+    "id": 1,
+    "name": "Sweeping",
+    "description": "The process of taking a broom and dustpan and collecting the dust, dirt, and debry off of the floor and transferring it from the floor to the dustpan then discarding it.",
+    "image_url": ""
+  },
+  {
+    "id": 2,
+    "name": "Decluttering",
+    "description": "The process of sorting and organizing storage or other rooms to get rid of unwanted items and organizing the items that are wanted.",
+    "image_url": ""
+  }
+]}
